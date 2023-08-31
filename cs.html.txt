@@ -1,0 +1,9 @@
+<DOCTYPE!>
+<html>
+<head>
+    Git hub 
+<body>
+git is good software for practice
+</html>
+</head>
+</body>
